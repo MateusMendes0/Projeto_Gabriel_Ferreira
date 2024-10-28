@@ -10,5 +10,9 @@ public class D {
     public static void md2(){
         System.out.println("MD2");
     }
+
+    public static void md4(){
+        System.out.println("MD4");
+    }
     
 }
