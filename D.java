@@ -11,8 +11,13 @@ public class D {
         System.out.println("MD2");
     }
 
+<<<<<<< HEAD
     public static void md3(){
         System.out.println("MD3");
+=======
+    public static void md4(){
+        System.out.println("MD4");
+>>>>>>> 0068f5bc971c5f675378b90ed463f91f5b461485
     }
     
 }
